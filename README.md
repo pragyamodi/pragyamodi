@@ -13,18 +13,6 @@ Hello! I'm Pragya, passionate about leveraging AI and technology to pioneer solu
 - Bioinformatics and Genomic Data Analysis
 - Medical Imaging and Computer Vision in Healthcare
 - Dynamic Systems Modeling of Biological Data
-- Hyperloop Energy Efficiency (HYPED project)
-
-### 💻 Skills
-
-- Programming: Agda, Python, R
-- Machine Learning & Data Analysis
-- Bioinformatics Tools
-- Statistical Analysis
-- Problem Solving
-- Qualitative and Quantitative Research Methods
-- Project Management
-- Leadership and Team Collaboration
 
 ### 🎯 Goals
 
@@ -33,19 +21,6 @@ Hello! I'm Pragya, passionate about leveraging AI and technology to pioneer solu
 - Bridge the gap between technology and medical research
 - Explore teaching opportunities in AI, Biomedical Informatics, and Psychology
 - Collaborate on innovative health tech projects
-
-### 🌟 Experience Highlights
-
-- Digital Skills Trainer (AI and Data) at University of Edinburgh
-- Research Assistant at Public Health Wales and Elmore Community Services
-- Lead Student Ambassador at The British Psychological Society
-- Pod Research Analyst and Project Manager at HYPED
-
-### 🎓 Education
-
-- MSc Artificial Intelligence, University of Edinburgh (2023-2025)
-- BSc (Hons) Psychology, Arden University (2020-2023)
-- BSc Computer Science (Machine Learning and AI), University of London (2019-2022)
 
 ### 📫 Connect with me
 
