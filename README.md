@@ -26,6 +26,6 @@ Hello! I'm Pragya, passionate about leveraging AI and technology to pioneer solu
 
 [LinkedIn](https://www.linkedin.com/in/pragya-modi-873495137) | [Email](mailto:email@pragyamodi.com)
 
----
+-----
 
 I'm always open to exciting collaborations, research opportunities, and discussions about the future of AI and technology in biomedical sciences and healthcare. Let's connect and make a difference together!
